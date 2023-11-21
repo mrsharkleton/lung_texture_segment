@@ -1,5 +1,6 @@
 # Lung Texture Segmentation
 Lung parenchymal texture labelling with coarse segmentation
+This project is licensed under the terms of the MIT license.
 
 ## Installation
 ``` shell
