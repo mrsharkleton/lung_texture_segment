@@ -44,7 +44,7 @@ Description of your script.
 
 ## To train a model
 ``` python
-python training.py -h
+python lung_texture_segment/training.py -h
 ```
 
 ``` shell
@@ -135,7 +135,7 @@ optional arguments:
 
 ## Reconstruct an inference
 ``` python
-python recon_image.py -h
+python lung_texture_segment/recon_image.py -h
 ```
 
 ``` shell
